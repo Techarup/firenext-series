@@ -2,12 +2,12 @@ import fire from 'firebase/app'
 import 'firebase/auth'
 
 const config = {
-    apiKey: "AIzaSyB4MdMzbwAgWRptdVsPX7c2OW0FTS9OQrs",
-    authDomain: "firenext-test-34ddf.firebaseapp.com",
-    projectId: "firenext-test-34ddf",
+    apiKey: "AIzaSyDVzlMS2kIgLYT8nsKE8DDEsHbA3OWOO-o",
+    authDomain: "loginsingup-d5aa6.firebaseapp.com",
+    projectId: "loginsingup-d5aa6",
     storageBucket: "firenext-test-34ddf.appspot.com",
-    messagingSenderId: "498724858814",
-    appId: "1:498724858814:web:8be6463416dcb7c8caa7ef"
+    messagingSenderId: "479171114205",
+    appId: "1:479171114205:web:82a854018b0ab8bd8b5734"
 }
 
 class Firebase {
